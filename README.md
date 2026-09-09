@@ -1,4 +1,4 @@
-# Hey there! 👋
+Hey there! 👋
 
 I'm Amira, a USC student studying Intelligence & Cyber Operations with a minor in User Experience, and I'm also pursuing a Master's in Cyber Security Engineering.
 
