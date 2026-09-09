@@ -6,11 +6,9 @@ I'm interested in cybersecurity policy, privacy, incident response, and threat i
 
 Currently, I'm building my skills through cybersecurity coursework, hands-on forensic labs, research, and my Information Security internship at Keck Medicine of USC, where I support work related to security policy, compliance, GRC, and cybersecurity operations. I also work on projects involving digital forensics, vulnerability research, and security analysis. I enjoy working across cybersecurity, data analysis, and design, using tools like Python, R, SQL, Linux, EnCase, Autopsy, GitHub, Figma, and Excel.
 
-🔍 What I'm Currently Working On
+🔍 What I'm Currently Working On:
 - Digital forensics and macOS/iOS investigations
-- Cybersecurity and IoT vulnerability research
-- Incident response and threat intelligence reporting
-- Security policy, compliance, and GRC
+- Security policy, GRC and threat intelligence reporting
 - UX-centered technology projects
 
 🎥 A Bit About Me: 
